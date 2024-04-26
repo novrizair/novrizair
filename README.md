@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/P0I4FJmnYl5E4/giphy.gif" width="400"/>
   
   ![novrizair's GitHub stats](https://github-readme-stats.vercel.app/api?username=novrizair&theme=graywhite&show_icons=true)
 
